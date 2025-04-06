@@ -152,16 +152,16 @@ export const DATA = {
       links: [],
     },
     {
-      title: "Smart India Hackathon",
+      title: "Smart India Hackathon - Top performers",
       dates: "Sep 2024",
-      location: "Kolkata, India",
+      location: "LPU",
       description:
-        "Developed a ship re-routing web app using traffic data to reduce delivery delays. Among top performers in internal round out of 600+ teams.",
+        "Developed a Gamification Version and Practical way of Learning About Plants related to AYUSH . Among top performers in internal round out of 600+ teams.",
       image: "/Smart-India-Hackathon-2023.png",
       links: [
         {
           title: "Source",
-          icon: <Icons.github className="h-4 w-4" />,
+          icon: <Icons.youtube className="h-4 w-4" />,
           href: "https://github.com/arpanhub",
         },
       ],
