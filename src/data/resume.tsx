@@ -10,15 +10,15 @@ export const DATA = {
   description:
     "Tech enthusiast passionate about building projects and bringing ideas to life.🚀",
   summary:
-    "I’m a passionate tech enthusiast and pre-final year undergrad specializing in [full-stack development](#skills), and [UI Design](#projects). I love building scalable web solutions, solving real-world problems, and sharing insights on Twitter/X. Always eager to learn and take on new challenges, I’m actively seeking opportunities to apply my expertise and contribute to impactful [projects](#projects). I also founded The Logicgen, an agency helping creators and businesses scale online. Through my freelance work, I’ve collaborated with clients having 30K+ followers, optimizing their digital presence and business growth.",
+    "I’m a passionate tech enthusiast and pre-final year undergrad specializing in [full-stack development](#skills), and [Backend Development](#projects). I love building scalable web solutions, solving real-world problems, and sharing insights on Twitter/X. Always eager to learn and take on new challenges, I’m actively seeking opportunities to apply my expertise and contribute to impactful [projects](#projects). I also founded The Logicgen, an agency helping creators and businesses scale online. Through my freelance work, I’ve collaborated with clients having 30K+ followers, optimizing their digital presence and business growth.",
   avatarUrl: "/arpan.png",
 
   skills: [
     "React.js", "Next.js", "Javascript", "Typescript", "Node.js",
     "MongoDB", "PostgreSQL", "Redis", "Golang", "C++", "Java", "SQL",
     "TailwindCSS", "Express.js", "Prisma", "Docker", "Kubernetes", "Git",
-    "GitHub Actions", "Linux", "gRPC", "OpenAPI", "Three.js", "GSAP",
-    "Shadcn UI", "Convex", "Langflow", "Astra DB", "WordPress"
+    "GitHub Actions", "Linux", "gRPC", "OpenAPI","GSAP",
+    "Shadcn UI", "Langflow", "Astra DB", "WordPress"
   ],
 
   navbar: [
@@ -59,16 +59,7 @@ export const DATA = {
       description:
         "Spearheaded the digital transformation of operations, achieving 80% increase in online engagement. Built a React + WordPress web platform that improved customer inquiries by 30%. Collaborated with cross-functional teams to boost brand visibility by 60%.",
     },
-    {
-      company: "Coding Blocks LPU",
-      title: "Media Head",
-      location: "Jalandhar, Punjab",
-      logoUrl: "/cb.png",
-      start: "May 2023",
-      end: "Mar 2024",
-      description:
-        "Led media ops for large-scale tech events and workshops. Mentored 5 junior teammates, boosting project execution and collaboration.",
-    },
+    
     {
       company: "Open Source",
       title: "Contributor",
@@ -79,7 +70,17 @@ export const DATA = {
       end: "Present",
       description:
         "Contributed to GSoC 2025 projects for Sprocket and Aussies orgs.Provided better solutions to the issues",
-    },   
+    }, 
+    {
+      company: "Coding Blocks LPU",
+      title: "Media Head",
+      location: "Jalandhar, Punjab",
+      logoUrl: "/cb.png",
+      start: "May 2023",
+      end: "Mar 2024",
+      description:
+        "Led media ops for large-scale tech events and workshops. Mentored 5 junior teammates, boosting project execution and collaboration.",
+    }  
   ],
 
   education: [
